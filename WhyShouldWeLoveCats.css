@@ -1,0 +1,356 @@
+body {
+    font-family: Coquette;
+    color: rgb(125, 106, 63);
+    background-color: rgb(238, 238, 192);
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+}
+
+.logo img {
+    width: 220px;
+    height: auto;
+    padding-top: 10%;
+    /* float: initial;
+    padding-bottom: none;
+    margin-top: 180px;
+    margin-left: 42%; */
+}
+
+#myHeader {
+    position: static;
+    width: auto;
+    height: 800px;
+    background-color: none;
+}
+
+h2 {
+    font-size: 45px;
+    /* padding-top: 320px;
+    padding-bottom: 10px; */
+    background-color: none;
+    height: 320px;
+    width: fit-content;
+}
+
+div h2 {
+    font-size: 45px;
+    padding-top: 20px;
+    padding-bottom: none;
+    height: 100px;
+    background-color: none;
+}
+
+h3 {
+    font-size: 55px;
+    text-align: center;
+    background-color: none;
+    height: 350px;
+    padding: 200px;
+}
+
+header {
+    margin-top: -20px;
+    padding-bottom: 400px;
+    background-color: none;
+}
+
+.uploader {
+    background-color: none;
+    text-align: center;
+}
+
+.subheader1 {
+    padding: 350px;
+    background-color: none;
+}
+
+.subheader2 {
+    padding: 350px;
+    background-color: none;
+}
+
+.circlecat {
+    margin-left: 900px;
+    margin-bottom: -200px;
+    padding: none;
+    width: 500px;
+    height: auto;
+}
+
+.squarecat {
+    float: right;
+    margin-right: 400px;
+    margin-top: 200px;
+    padding: none;
+    width: 400px;
+    height: auto;
+}
+
+.pipecat {
+    float: right;
+    margin-right: -700px;
+    padding: none;
+    width: 360px;
+    height: auto;
+}
+
+.beautifulcat {
+    float: right;
+    padding-bottom: 120px;
+    padding-left: -40px;
+    padding-right: 150px;
+    margin-top: 80px;
+    margin-right: 390px;
+    width: 350px;
+    height: auto;
+}
+
+.stretchingcat {
+    float: left;
+    margin-left: 220px;
+    margin-top: 20px;
+    padding-bottom: 150px;
+    width: 520px;
+    height: auto;
+}
+
+.surprisedcat {
+    float: right;
+    margin-right: 30%;
+    padding: none;
+    width: 450px;
+    height: auto;
+}
+
+.windowcat {
+    margin-left: 15%;
+    padding: none;
+    width: 360px;
+    height: auto;
+}
+
+.infinitecutecat {
+    float: right;
+    margin-right: 25%;
+    margin-top: 40px;
+    /* padding: 20px;
+    background-color: none; */
+    width: 420px;
+    height: auto;
+    padding: 0px;
+}
+
+.groomingcat {
+    float: left;
+    margin-left: 20%;
+    /* padding: 20px;
+    background-color: none; */
+    width: 450px;
+    height: auto;
+}
+
+.catandboy {
+    float: right;
+    margin-right: 280px;
+    margin-bottom: 90px;
+    margin-top: -150px;
+    width: 460px;
+    height: auto;
+}
+
+.catimage4 {
+    margin-left: 30%;
+    padding: none;
+    margin-top: -200px;
+    /* width: 420px; */
+    height: auto;
+    width: 700px;
+}
+
+#container1 {
+    position: static;
+    width: auto;
+    height: 800px;
+    background-color: none;
+}
+
+#container1image {
+    position: static;
+}
+
+.container text {
+    position: static;
+}
+
+.number1 {
+    font-weight: bolder;
+    font-size: 200px;
+    margin-left: 345px;
+    margin-top: -235px;
+    opacity: 0.5;
+}
+
+#container2 {
+    position: static;
+    width: auto;
+    height: 800px;
+    background-color: none;
+    margin-bottom: 200px;
+}
+
+.number2 {
+    font-weight: bolder;
+    font-size: 200px;
+    margin-left: 580px;
+    margin-top: -225px;
+    opacity: 0.5;
+}
+
+#container3 {
+    position: static;
+    width: auto;
+    height: 800px;
+    background-color: none;
+}
+
+.container3 h2 {
+    margin-left: 20px;
+    margin-top: 45px;
+}
+
+.number3 {
+    font-weight: bolder;
+    font-size: 200px;
+    margin-top: -230px;
+    margin-left: -500px;
+    margin-right: 90px;
+    opacity: 0.5;
+}
+
+#container4 {
+    position: static;
+    width: auto;
+    height: 800px;
+    background-color: none;
+    margin-bottom: -400px;
+}
+
+.number4 {
+    font-weight: bolder;
+    font-size: 200px;
+    margin-left: 260px;
+    margin-top: -280px;
+    opacity: 0.5;
+}
+
+#container5 {
+    position: static;
+    width: auto;
+    height: 800px;
+    background-color: none;
+    margin-bottom: 150px;
+}
+
+.number5 {
+    font-weight: bolder;
+    font-size: 200px;
+    margin-left: 375px;
+    margin-bottom: -163px;
+    opacity: 0.5;
+}
+
+#container6 {
+    position: static;
+    width: auto;
+    height: 800px;
+    background-color: none;
+}
+
+.number6 {
+    font-weight: bolder;
+    font-size: 200px;
+    margin-left: 390px;
+    margin-bottom: 280px;
+    margin-top: -425px;
+    opacity: 0.5;
+}
+
+
+/* .container7{
+    align-items: center;
+} */
+
+.number7 {
+    font-weight: bolder;
+    font-size: 200px;
+    opacity: 0.5;
+    margin-top: -260px;
+    margin-bottom: 300px;
+    margin-left: -220px;
+    margin-right: 70px;
+    padding: 0px;
+}
+
+#container8 {
+    position: static;
+    width: auto;
+    height: 800px;
+    background-color: none;
+}
+
+.number8 {
+    font-weight: bolder;
+    font-size: 200px;
+    margin-left: 670px;
+    margin-bottom: 220px;
+    margin-top: -265px;
+    opacity: 0.5;
+}
+
+#container9 {
+    position: static;
+    width: auto;
+    height: 800px;
+    background-color: none;
+}
+
+.number9 {
+    font-weight: bolder;
+    font-size: 200px;
+    opacity: 0.5;
+    margin-top: -710px;
+    margin-left: 960px;
+    margin-bottom: 300px;
+}
+
+.british_shorthair img {
+    float: right;
+    margin-right: 20%;
+    padding: none;
+    width: 300px;
+    height: auto;
+}
+
+.SiameseCat {
+    width: 30px;
+    height: auto;
+}
+
+
+/* .catimage2{
+    float: left;
+    padding: none;
+    width: 300px;
+    height: auto;
+} */
+
+
+/* .title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+} */
